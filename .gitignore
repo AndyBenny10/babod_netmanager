@@ -2,4 +2,5 @@
 /data/*.sqlite
 /data/*.sqlite-journal
 /_ref/
+/.tools/
 /vendor/
